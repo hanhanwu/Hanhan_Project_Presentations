@@ -15,18 +15,18 @@ major presentation, posters for data science projects
 * Travel++
  * <b>2016 Spring</b>
  * <b>Audience</b>: SFU CS professors and students
- * [Initial Project Proposal PPT][1]
- * [Final Poster][2]
+ * [Initial Project Proposal PPT][2]
+ * [Final Poster][3]
 
 
-  [1]: https://github.com/hanhanwu/Hanhan-TravelPlusPlus/blob/master/travel.slides.pdf
-  [2]: https://github.com/hanhanwu/Hanhan-TravelPlusPlus/blob/master/travel%2B%2B%20poster.pdf
+  [2]: https://github.com/hanhanwu/Hanhan-TravelPlusPlus/blob/master/travel.slides.pdf
+  [3]: https://github.com/hanhanwu/Hanhan-TravelPlusPlus/blob/master/travel%2B%2B%20poster.pdf
   
   
 * Improved Hierarchical Neural Network Temporal Model
  * <b>2015 Fall</b>
  * <b>Audience</b>: SFU CS professors and students
- * [Final Poster][1]
+ * [Final Poster][4]
  
 
-  [1]: https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/Improved%20Hierarchical%20Model.pptx.pdf
+  [4]: https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/Improved%20Hierarchical%20Model.pptx.pdf
