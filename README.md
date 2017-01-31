@@ -1,5 +1,5 @@
 # Hanhan_Project_Presentations
-major presentation, posters for data science projects
+Public Presentations/Posters in <b>Data Science</b>, <b>Human Computer Interaction</b> and <b>Cyber Security</b> 
 
 
 * 1 week Vancity NLP Experiments
