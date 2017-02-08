@@ -53,3 +53,23 @@ HUMAN COMPUTER INTERACTION (HCI)
  
  
  [5]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/task_centered_design.pdf
+
+
+***********************************************************
+
+Cyber Security
+
+* [Present a paper - DieHarder: Securing the Heap][7]
+ * <b>Feb 7, 2017</b>
+ * <b>Duration:</b> 30 minutes
+ * <b>Topic:</b> Talk about the DieHarder paper
+ * <b>Audience:</b> The Whole OS Class
+ * <b>Presentation Purpose:</b> Digest this paper and present it with examples to help the whole class understand deeper about the topics, also, the professors hopes there will be class discussion
+ * [My Slides][6]
+ * [Team Presentation Slides][8]
+ * <b>My presentation experience...</b>: Everything in OS class is heartbreaking... The mini projects, the coming final project, the critique writing and the presentation (I was so proud of my presenting skills...) When my schedule is very busy, preparing for this presentation really made me "die harder". Look, the whole team has 30 minutes to talk, the paper is so difficult for me to understand because my OS knowledge is close to 0, how to present so many things within 10 miuntes with easy-to-understand examples was a big challenge for me. I tried my best to read the paper again and again, checking relative papers, presentations, finally, I managed to create 5 slides, and designed with easy-to-understand examples, I also designed the PPT in a way to prevent stdents from asking questions, because I really don't know deeper. For some parts in the paper, no matter how did I try to research, still puzzled me, so I used some methods to skip those confusing part. As I expected, the students really felt they understood everything I was talking about, and as I expected, they dind't have any questions for my part. However, I forgot there was the professor, who will ask questions to encourage students to think deeper and understand better. And, he did ask a question I really could not undersatnd in the paper. It was a little embarassing that the professor had to come to draw a picture and explain that.... Next time, if I don't understand some part, I am going to ask the professor directly before th presentation, in case he will ask questions I don't know.... This class, really swallowed all of my pride...
+
+
+[6]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/attacks.pdf
+[7]:https://people.cs.umass.edu/~emery/pubs/ccs03-novark.pdf
+[8]:https://docs.google.com/presentation/d/1H1g9Vx6ed7zQ4rA_TwQ_RuU49y0qiotNgheVE7UbD2s/edit?usp=sharing
