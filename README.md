@@ -6,6 +6,20 @@ Public Presentations/Posters in <b>Data Science</b>, <b>Human Computer Interacti
 
 DATA SCIENCE PRESENTATIONS
 
+* Introduce Spark to SFU Linguistics Lab
+ * <b>2017 Spring</b>
+ * <b>Duration</b>: 30 minutes
+ * <b>Audience</b>: SFU Linguistics Lab, the lab I am doing Research Assistant work, they all have programming experience
+ * <b>Presentation Purpose</b>: to introdice Spark with relative simple NLP examples, they will use some of these basic concepts in one of their research projects.
+ * [Presentation PPT][9] 
+ * [Demo Code][10]
+ * <b>Observations</b>: I wanted to finish everything within 30 minutes inlcuding to answer their questions, som the demo I made was super simple. The good news is, I made them realize how great Spark is, especially when I compared it with Hadoop. There is one things I could improve, they appeared to be very interested in executing things in parallel, but in my demo, dind't show them an example does parallel work. In the future, if I need to do demo work, it is better closely related to the previous features I have talked about, within time limit.
+ 
+ 
+ [9]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/RA_presentation.pdf
+ [10]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/demo.ipynb
+ 
+
 * 1 week Vancity NLP Experiments
  * <b>2016 Summer</b>
  * <b>Audience</b>: SFU NLP Lab
@@ -49,7 +63,7 @@ HUMAN COMPUTER INTERACTION (HCI)
  * [Presentation PPT][5]
  * <b>Why did I design the PPT in this way:</b> My goal is to help stuents learn and encourage them to discuss, without expecting all of them have done the readings or remember many details in the readings.
  * <b>Results:</b> I am very happy that they kept talking during the whole 1 hour, some of them obviously dind't do the readings, but they were also contributed valuable ideas proactively! Through the talk, they have learned the process of Task-Centered Design and strengthened their skills in requirements gathering as well as user interface design.
- * <b>Interesting Phenomenon I have seen, about how to encourage the discussion: </b> 1) People will talk a lot when they can relate to the senario/situation. 2) People like brain storming, just need to give them a detailed strory background, they can talk more. 3) When time is short, instead of asking them to design the whole thing, encouraging them to make judgements on my design, judgements and arguments are all pretty good here because when they are discussing, they start to think deeper with the knowledge & experience they have gained.
+ * <b>Observations</b> 1) People will talk a lot when they can relate to the senario/situation. 2) People like brain storming, just need to give them a detailed strory background, they can talk more. 3) When time is short, instead of asking them to design the whole thing, encouraging them to make judgements on my design, judgements and arguments are all pretty good here because when they are discussing, they start to think deeper with the knowledge & experience they have gained.
  
  
  [5]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/task_centered_design.pdf
