@@ -10,7 +10,7 @@ DATA SCIENCE PRESENTATIONS
  * <b>2017 Spring</b>
  * <b>Duration</b>: 30 minutes
  * <b>Audience</b>: SFU Linguistics Lab, the lab I am doing Research Assistant work, they all have programming experience
- * <b>Presentation Purpose</b>: to introdice Spark with relative simple NLP examples, they will use some of these basic concepts in one of their research projects.
+ * <b>Presentation Purpose</b>: to introduce Spark with relative simple NLP examples, they will use some of these basic concepts in one of their research projects.
  * [Presentation PPT][9] 
  * [Demo Code][10]
  * <b>Observations</b>: I wanted to finish everything within 30 minutes inlcuding to answer their questions, so the demo I made was super simple. The good news is, I made them realize how great Spark is, especially when we were discussing Hadoop and Spark. There is one things I could improve, they appeared to be very interested in executing things in parallel, but in my demo, dind't show them an example does parallel work. In the future, if I need to do demo work, it is better to make it closely related to the previous features I have talked about, within the time limit.
