@@ -48,6 +48,18 @@ Public Presentations/Posters in <b>Data Science</b>, <b>Human Computer Interacti
 
 <b>HUMAN COMPUTER INTERACTION (HCI)</b>
 
+* [The Rise of Conversational Data Miners: From Conversational To Professional][19]
+  * <b>2017 Spring</b>
+  * This is the final paper of an HCI study
+  * <b>Definition - Conversational Data Miner</b>: people who need to understand data mining basic knowledge such as statistics methods, machine learning algorithms, data engineering and relative software development process, but they do not need to dive deeper into the data work.
+  * <b>Research Purpose</b>
+    * Study a group of conversational data miners who want to become professional data miners
+    * To understand what motivated them to be professional data miners
+    * To find out what do they want to learn and what do they need to learn
+    * To study how do they learn and their learning barriers
+  * <b>Why This Topic</b>: In HCI, one of the research area is to using social science methods for data collection and data analysis, in order to understand users better. Doing this type of research work for eduation is also an important research area in HCI. I am pretty interested in trying out this type of data collection method through in-person interview, and then analyze the data through qualitative analysis.
+
+
 * Lead Discussion - Gathering Requirements & Task Centered Design
   * <b>Feb. 2, 2017</b>
   * <b>Duration:</b> 1h
@@ -110,3 +122,4 @@ Public Presentations/Posters in <b>Data Science</b>, <b>Human Computer Interacti
 [16]:https://github.com/hanhanwu/Hanhan_Play_With_Social_Media/tree/master/Predict_StackOverflow_Underrated_Answers
 [17]:https://github.com/hanhanwu/Hanhan_Play_With_Social_Media/blob/master/Predict_StackOverflow_Underrated_Answers/Predict%20StackOverflow%20Underrated%20Answers.pdf
 [18]:https://github.com/hanhanwu/Hanhan_Play_With_Social_Media/blob/master/Predict_StackOverflow_Underrated_Answers/886_final_project_Hanhan_Wu.pdf
+[19]:https://github.com/hanhanwu/Hanhan_Project_Presentations/blob/master/888_project_Hanhan_Wu.pdf
