@@ -67,6 +67,7 @@ Public Presentations/Posters in <b>Data Science</b>, <b>Human Computer Interacti
   * <b>Audience:</b> The Whole HCI Class
   * <b>Presentation Purpose:</b> Encourage studnets to discuss and help them learn/deepen the HCI knowledge/skills through the discussion
   * [Presentation PPT][5]
+    * <b>NOTE: I made some controversial desig here</b>, just in order to encourage argument, discussion and design suggestions during the class, because my role is to lead the discussion.
   * <b>Why did I design the PPT in this way:</b> My goal is to help stuents learn and encourage them to discuss, without expecting all of them have done the readings or remember many details in the readings.
   * <b>Results:</b> I am very happy that they kept talking during the whole 1 hour, some of them obviously dind't do the readings, but they were also contributed valuable ideas proactively! Through the talk, they have learned the process of Task-Centered Design and strengthened their skills in requirements gathering as well as user interface design.
   * <b>Observations</b> 1) People will talk a lot when they can relate to the senario/situation. 2) People like brain storming, just need to give them a detailed strory background, they can talk more. 3) When time is short, instead of asking them to design the whole thing, encouraging them to make judgements on my design, judgements and arguments are all pretty good here because when they are discussing, they start to think deeper with the knowledge & experience they have gained.
